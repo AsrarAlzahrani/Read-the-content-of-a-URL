@@ -1,6 +1,6 @@
 # Read the content of a URL
 
-Use this commend line in cmd to make HTTP Request 
+Use this command line in cmd to make HTTP Request
 
 pip install requests
 
